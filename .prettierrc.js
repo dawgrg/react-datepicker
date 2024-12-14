@@ -3,7 +3,7 @@
  * Prettier Configuration
  * @type {import('prettier').Config}
  */
-const config = {
+const config = { 
   overrides: [
     // Revert JSONC parsing:
     // https://github.com/prettier/prettier/issues/15553
